@@ -1,6 +1,10 @@
 # Overview
 
-We're following [this tutorial](https://www.youtube.com/watch?v=9LMEUXPxl8g&list=PLsGl9GczcgBvuBDsj9dA1Aa_arhcJib-s&ab_channel=RyanKingArt)
+Following [this tutorial](https://www.youtube.com/watch?v=9LMEUXPxl8g&list=PLsGl9GczcgBvuBDsj9dA1Aa_arhcJib-s&ab_channel=RyanKingArt)
+
+# Short animation
+
+![Video demo](https://youtu.be/0m4E_T9mIhI)
 
 # Final render
 
