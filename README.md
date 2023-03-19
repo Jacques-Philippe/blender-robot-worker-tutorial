@@ -2,6 +2,10 @@
 
 We're following [this tutorial](https://www.youtube.com/watch?v=9LMEUXPxl8g&list=PLsGl9GczcgBvuBDsj9dA1Aa_arhcJib-s&ab_channel=RyanKingArt)
 
+# Final render
+
+![render](./renders/final.png)
+
 # Steps
 
 1. Create robot's head
