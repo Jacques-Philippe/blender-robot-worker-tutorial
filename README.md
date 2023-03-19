@@ -4,7 +4,7 @@ Following [this tutorial](https://www.youtube.com/watch?v=9LMEUXPxl8g&list=PLsGl
 
 # Short animation
 
-![Video demo](https://youtu.be/0m4E_T9mIhI)
+[Video demo](https://youtu.be/0m4E_T9mIhI)
 
 # Final render
 
